@@ -1,40 +1,47 @@
-# 👑 KingMarw's Project Hub
+<!-- Banner Gradient -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=KingMarw" alt="KingMarw Banner" style="border-radius:15px;">
+</p>
 
-![Header Banner](https://your-image-link.com/banner.png)
-
-## 🚀 عن المشروع
-**ما وراء الصمت** هو مشروع لدعم ذوي الإعاقة السمعية والنطق، ويحتوي على تطبيقات وبرامج تعليمية مبتكرة لتسهيل التفاعل والتعلم.
-
----
-
-## 📥 تنزيل التطبيق
-[![Download](https://img.shields.io/badge/Download-App-blue?style=for-the-badge&logo=appveyor)](https://link-to-your-app.com)
+<h1 align="center" style="background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">KingMarw</h1>
+<p align="center">مطور ألعاب وبرمجيات، صانع محتوى برمجي، ومحب للتحديات التقنية 💻🎮</p>
 
 ---
 
-## 🛠️ المميزات
-- واجهة مستخدم سلسة وحديثة  
-- دعم كامل للغة العربية  
-- نظام تسجيل دخول وإنشاء حساب آمن  
-- كروت عرض بيانات تفاعلية  
-- إشعارات Toast جذابة  
+## 🏆 المشاريع المميزة
+
+<div align="center" style="display:flex; gap:20px; flex-wrap: wrap;">
+  <!-- Project Card -->
+  <div style="border-radius:15px; overflow:hidden; width:250px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(145deg, #00c6ff, #0072ff); color:white; padding:20px;">
+    <h3>🎮 لعبة مغامرات</h3>
+    <p>لعبة مغامرات تفاعلية باستخدام بايثون وPygame.</p>
+    <a href="https://github.com/KingMarw/adventure-game" style="color:white; text-decoration:underline;">عرض المشروع</a>
+  </div>
+
+  <div style="border-radius:15px; overflow:hidden; width:250px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(145deg, #f7971e, #ffd200); color:white; padding:20px;">
+    <h3>🌐 موقع بورتفوليو</h3>
+    <p>موقع شخصي متكامل بتصميم Dark Mode وGlassmorphism.</p>
+    <a href="https://github.com/KingMarw/portfolio" style="color:white; text-decoration:underline;">عرض المشروع</a>
+  </div>
+</div>
 
 ---
 
-## 💻 التقنيات المستخدمة
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-158aff?style=for-the-badge&logo=python&logoColor=white)
+## ⚡ المهارات
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/CustomTkinter-158aff?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white">
+</p>
 
 ---
 
-## 📸 معاينة
-![App Screenshot](https://your-image-link.com/screenshot1.png)
-![App Screenshot](https://your-image-link.com/screenshot2.png)
+## 📬 تواصل
 
----
-
-## ⚡ طريقة التشغيل
-1. استنخدم Python 3.11+  
-2. ثبّت المتطلبات:
-   ```bash
-   pip install -r requirements.txt
+<p align="center">
+  <a href="https://github.com/KingMarw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/KingMarw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
