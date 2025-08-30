@@ -1,6 +1,6 @@
 <!-- Banner Gradient -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=KingMarw" alt="KingMarw Banner" style="border-radius:15px;">
+  <img src="https://avatars.githubusercontent.com/u/163139467?v=4" alt="KingMarw Banner" style="border-radius:15px;">
 </p>
 
 <h1 align="center" style="background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">KingMarw</h1>
