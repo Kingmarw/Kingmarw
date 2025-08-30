@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 مرحباً، أنا مارو
 
-<!--
-**Kingmarw/Kingmarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://your-image-link.com/banner.png)
 
-Here are some ideas to get you started:
+## 🔹 عني
+- مطور ألعاب وبرمجيات ويب.
+- مهتم بتطوير التطبيقات المبتكرة ودعم ذوي الإعاقة السمعية والنطق.
+- أحب تعلم تقنيات جديدة وتحسين مهاراتي البرمجية.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ الأدوات
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+## 📫 تواصل معي
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kingmarw.kingmarw)
