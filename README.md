@@ -21,7 +21,7 @@
   <div style="border-radius:15px; overflow:hidden; width:250px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(145deg, #f7971e, #ffd200); color:white; padding:20px;">
     <h3>🌐 موقع بورتفوليو</h3>
     <p>موقع شخصي متكامل بتصميم Dark Mode وGlassmorphism.</p>
-    <a href="https://github.com/KingMarw/portfolio" style="color:white; text-decoration:underline;">عرض المشروع</a>
+    <a href="https://portfolio-kingmarw.vercel.app" style="color:white; text-decoration:underline;">عرض المشروع</a>
   </div>
 </div>
 
