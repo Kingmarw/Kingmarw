@@ -1,7 +1,18 @@
 <!-- ===================== -->
 <!--  README - KingMarw   -->
 <!-- ===================== -->
-
+<div align="center">
+  
+  <!-- الصورة بحدود دائرية -->
+  <img 
+    src="https://github.com/user-attachments/assets/5c3f9fa5-d35b-437b-8879-ffb0175a3944" 
+    alt="KingMarw" 
+    width="250" 
+    height="250"
+    style="border-radius: 50%; border: 5px solid #CECA6E;"
+  />
+  
+</div>
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CECA6E&center=true&multiline=true&width=435&height=71&lines=Welcome!;i'm+kingmarw+nice+to+meet+you+%F0%9F%8C%B9!" 
