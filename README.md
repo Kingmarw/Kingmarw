@@ -2,27 +2,17 @@
 <!--  README - KingMarw   -->
 <!-- ===================== -->
 
-<p align="center">
-  <!-- Animated banner (استبدل بالرابط اللي تحبه) -->
-  <img src="https://c.tenor.com/0vFz5-5JCMIAAAAd/tech-gif.gif" alt="KingMarw Banner" style="border-radius:15px; max-width:100%;"/>
-</p>
-
-<h1 align="center">
-  <span style="background: linear-gradient(90deg,#ff7e5f,#feb47b); -webkit-background-clip: text; color: transparent;">
-    KingMarw
-  </span>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CECA6E&center=true&multiline=true&width=435&height=71&lines=Welcome!;i'm+kingmarw+nice+to+meet+you+%F0%9F%8C%B9!" alt="Typing SVG" /></a>
 
 <p align="center">
   <strong>مطور ألعاب & مطور ويب • صانع محتوى برمجي</strong> — مبسوط أصنع حاجات تحل مشاكل وتفتح دماغ الناس 🔥  
   <br/>
-  <a href="https://kingmarw.github.io" target="_blank">الموقع الشخصي</a> • <a href="mailto:kingmarw3@gmail.com">kingmarw3@gmail.com</a>
+  <a href="https://kingmarw.vercel.app" target="_blank">الموقع الشخصي</a> • <a href="mailto:kingmarw3@gmail.com">kingmarw3@gmail.com</a>
 </p>
 
 <p align="center">
   <!-- GitHub stats + streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=KingMarw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="KingMarw GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingMarw&theme=dark" alt="Streak" />
 </p>
 
 ---
