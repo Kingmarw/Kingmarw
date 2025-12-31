@@ -74,10 +74,6 @@
 ---
 
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingMarw&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KingMarw&theme=transparent&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMarw&theme=github-compact&hide_border=true" />
