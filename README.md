@@ -33,7 +33,7 @@
 
 ## 🧠 About Me
 أنا **مروان (KingMarw)**  
-بشتغل على ألعاب وتطبيقات ويب عملية، وبهتم بالـ **UX + Performance**  
+بشتغل على تطبيقات ويب عملية، وبهتم بالـ **UX + Performance**  
 مجالاتي الأساسية:
 **Python • HTML • PHP • CSS • JAVASCRIPT**
 
