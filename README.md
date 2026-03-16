@@ -35,7 +35,7 @@
 أنا **مروان (KingMarw)**  
 بشتغل على ألعاب وتطبيقات ويب عملية، وبهتم بالـ **UX + Performance**  
 مجالاتي الأساسية:
-**Python • Flask • PHP • Game Dev • Web**
+**Python • HTML • PHP • CSS • JAVASCRIPT**
 
 ---
 
