@@ -1,12 +1,12 @@
 <!-- ===================== -->
-<!--  README - KingMarw   -->
+<!--  README - Kingmarw   -->
 <!-- ===================== -->
 <div align="center">
   
   <!-- الصورة بحدود دائرية -->
   <img 
     src="https://github.com/user-attachments/assets/5c3f9fa5-d35b-437b-8879-ffb0175a3944" 
-    alt="KingMarw" 
+    alt="Kingmarw" 
     width="250" 
     height="250"
     style="border-radius: 50%; border: 5px solid #CECA6E;"
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <strong>Game Developer • Web Developer • Content Creator</strong><br/>
+  <strong>Developer • Content Creator</strong><br/>
   بحب أبني منتجات حقيقية مش مجرد كود 🔥
   <br/><br/>
   🌐 <a href="https://kingmarw.vercel.app">Portfolio</a>
@@ -32,7 +32,7 @@
 ---
 
 ## 🧠 About Me
-أنا **مروان (KingMarw)**  
+أنا **مروان (Kingmarw)**  
 بشتغل على تطبيقات ويب عملية، وبهتم بالـ **UX + Performance**  
 مجالاتي الأساسية:
 **Python • HTML • PHP • CSS • JAVASCRIPT**
@@ -41,34 +41,16 @@
 
 ## 🚀 Project Spotlight
 
-### 💬 كلمني دوت كوم — Chat Platform
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Type-Real%20Product-blue?style=for-the-badge"/>
-</p>
-
-منصة دردشة عربية حديثة:
-- تسجيل بدون باسورد  
-- واجهة سريعة ومتجاوبة  
-- دعم صور وصوت  
-- تصميم بسيط وآمن  
-
-🔗 **Live Demo:** https://call.xo.je
-
----
-
-## 🏆 Other Projects
-
 | المشروع | الوصف | الرابط |
 |---|---|---|
 | 🌐 Portfolio Website | Dark Mode + Glassmorphism | https://kingmarw.vercel.app |
-| 🏫 School Management | Flask + SQLite System | https://elmohandeseen.pythonanywhere.com |
+| elqaisar academy | php - html - css - js - tailwindcss | https://elqaisaracademy.com |
 
 ---
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bootstrap,php,html,css,js,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bootstrap,tailwindcss,php,html,css,js,github&theme=dark" />
 </p>
 
 ---
@@ -76,7 +58,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMarw&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingmarw&theme=github-compact&hide_border=true" />
 </p>
 
 ---
