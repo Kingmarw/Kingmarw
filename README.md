@@ -35,7 +35,7 @@
 أنا **مروان (Kingmarw)**  
 بشتغل على تطبيقات ويب عملية، وبهتم بالـ **UX + Performance**  
 مجالاتي الأساسية:
-**Python • HTML • PHP • CSS • JAVASCRIPT**
+**Python • HTML • Tailwindcss • Bootstrap • PHP • CSS • JAVASCRIPT**
 
 ---
 
@@ -44,7 +44,7 @@
 | المشروع | الوصف | الرابط |
 |---|---|---|
 | 🌐 Portfolio Website | Dark Mode + Glassmorphism | https://kingmarw.vercel.app |
-| elqaisar academy | php - html - css - js - tailwindcss | https://elqaisaracademy.com |
+| 📚 elqaisar academy | php - html - css - js - tailwindcss | https://elqaisaracademy.com |
 
 ---
 
